@@ -1,0 +1,387 @@
+initialization took 0.006095 seconds.
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:5
+interface grid summary(sum) Number of Live Attached Cells:5
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:5
+interface grid summary(sum) Number of Live Attached Cells:5
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.00148345
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:5
+interface grid summary(sum) Number of Live Attached Cells:5
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000941261
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:5
+interface grid summary(sum) Number of Live Attached Cells:5
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000860127
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:5
+interface grid summary(sum) Number of Live Attached Cells:5
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000866193
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:5
+interface grid summary(sum) Number of Live Attached Cells:5
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000882605
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:5
+interface grid summary(sum) Number of Live Attached Cells:5
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000892219
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:5
+interface grid summary(sum) Number of Live Attached Cells:5
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000894016
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:5
+interface grid summary(sum) Number of Live Attached Cells:5
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000890343
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:5
+interface grid summary(sum) Number of Live Attached Cells:5
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000883417
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:5
+interface grid summary(sum) Number of Live Attached Cells:5
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000874732
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:5
+interface grid summary(sum) Number of Live Attached Cells:5
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000865183
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:5
+interface grid summary(sum) Number of Live Attached Cells:5
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000855283
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:5
+interface grid summary(sum) Number of Live Attached Cells:5
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000845317
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:6
+interface grid summary(sum) Number of Live Attached Cells:6
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.199075
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:6
+interface grid summary(sum) Number of Live Attached Cells:6
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.00400512
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:6
+interface grid summary(sum) Number of Live Attached Cells:6
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.00152128
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:6
+interface grid summary(sum) Number of Live Attached Cells:6
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.00095876
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:6
+interface grid summary(sum) Number of Live Attached Cells:6
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.00075451
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:6
+interface grid summary(sum) Number of Live Attached Cells:6
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000666306
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:6
+interface grid summary(sum) Number of Live Attached Cells:6
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.00066563
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:7
+interface grid summary(sum) Number of Live Attached Cells:7
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.110383
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:7
+interface grid summary(sum) Number of Live Attached Cells:7
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.00415543
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:7
+interface grid summary(sum) Number of Live Attached Cells:7
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.0016875
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:7
+interface grid summary(sum) Number of Live Attached Cells:7
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.00109297
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.00720541
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.00198104
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.00108273
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000838694
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.00080188
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000778396
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000763333
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000754341
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000756042
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000773104
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000782224
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000785383
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000784478
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000780973
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000775885
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000769877
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000763367
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000756611
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.00240619
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.00101702
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000848931
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000747231
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000723984
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000715256
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000707029
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000699173
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000691663
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:8
+interface grid summary(sum) Number of Live Attached Cells:8
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.000684504
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:9
+interface grid summary(sum) Number of Live Attached Cells:9
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.161756
+interface grid summary(max) Maximum growth rate factor:1
+interface grid summary(sum) Number of microcarriers:1
+interface grid summary(sum) Number of Live Cells:9
+interface grid summary(sum) Number of Live Attached Cells:9
+interface grid summary(sum) Number of Death Cells:0
+interface grid summary(sum) Number of Removed Cells:0
+interface grid summary(max) Maximum displacement:0.00898445
+interface grid summary(max) Maximum growth rate factor:1
+check failure on /home/jaroknor/NLeSC/InSilicoMeat/Biocellion/Biocellion-3.1/biocellion-3.1/biocellion/include/vector_type.h line 203: idx < this->v_val.size()

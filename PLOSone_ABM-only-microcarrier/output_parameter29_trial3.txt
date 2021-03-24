@@ -1,0 +1,1 @@
+check failure on /home/jaroknor/NLeSC/InSilicoMeat/Biocellion/Biocellion-3.1/biocellion-3.1/biocellion/libmodel/interface/interface_agent.cpp line 133: ( newVIdx[dim] >= startVIdx[dim] ) && ( newVIdx[dim] <= endVIdx[dim] )
