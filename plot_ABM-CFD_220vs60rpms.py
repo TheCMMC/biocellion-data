@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import  numpy as np 
 
 plt.rcParams["figure.figsize"] = [4.1, 3.6 ]
 plt.rcParams["figure.dpi"] = 300
@@ -32,7 +33,7 @@ colors = ['b','r']
 exponents = [ '5-6','7-8', '9-10','11-12','13-14','15-16','17-18' ]
 Nfigs = len(parameterSets) 
 labels =  ['rpm=60','rpm=220']
-run = '8'
+run = ['7','8','9' ]
 
 for j in range( Nfigs ) :
 
@@ -43,28 +44,38 @@ for j in range( Nfigs ) :
     fig, ax = plt.subplots()
     for i in range(Nparams) :
 
-        live = []
-        death = []
-        param = str( parameters[i] ) ;
-    
-        filename =  "./PLOSOne-ABM-CFD-microcarrier/output_parameter"+ param  +"_trial"+ run +".txt"
-        with open(filename, 'r' ) as f :
-            for line in f :
-                #if 'Live Cells' in line :
-                if 'Live Attached Cells' in line :
-                    live.append( int( line.strip().split(':')[-1] ) )
-                elif 'Removed Cells' in line :
-                    death.append( int( line.strip().split(':')[-1] ) )
+        live_all = []
+        death_all = []
 
-        Npoints = len( live )
+        for r in run :
+            live =  []
+            death = [] 
+            param = str( parameters[i] ) ;
+    
+            filename =  "./PLOSone_ABM-CFD-microcarrier/output_parameter"+ param  +"_trial"+ r +".txt"
+            with open(filename, 'r' ) as f :
+                for line in f :
+                    #if 'Live Cells' in line :
+                    if 'Live Attached Cells' in line :
+                        live.append( int( line.strip().split(':')[-1] ) )
+                    elif 'Removed Cells' in line :
+                        death.append( int( line.strip().split(':')[-1] ) )
+
+            live_all.append( live  )
+            death_all.append( death ) 
+
+        avg_live_all = np.mean( live_all , axis = 0 )  
+        avg_death_all = np.mean( death_all , axis = 0 )  
+
+        Npoints = len( avg_live_all  )
         tsteps = [ float(t) / steps_doublingt  for t in   range( Npoints) ] ;
 
-        if ( j == 4 ) :
-            ax.plot(tsteps, live , colors[i] ,  label= labels[i] + '(live)' , linewidth=1.0 )
-            ax.plot(tsteps,death , colors[i] + '--' ,  label= labels[i]+'(death)', linewidth=0.5 )
+        if ( j == 5 ) :
+            ax.plot(tsteps,  avg_live_all, colors[i] ,  label= labels[i] + '(live)' , linewidth=1.0 )
+            ax.plot(tsteps, avg_death_all, colors[i] + '--' ,  label= labels[i]+'(death)', linewidth=0.5 )
         else :
-            ax.plot(tsteps, live , colors[i]  , linewidth=1.0 )
-            ax.plot(tsteps,death , colors[i] + '--' ,   linewidth=0.5 )
+            ax.plot(tsteps,  avg_live_all, colors[i]  , linewidth=1.0 )
+            ax.plot(tsteps, avg_death_all, colors[i] + '--' ,   linewidth=0.5 )
 
 
     #ax.set_xlim([0, 1250])
@@ -74,4 +85,4 @@ for j in range( Nfigs ) :
     plt.xlabel('Number of doubling times', fontsize=10)
     plt.grid()
     legend = ax.legend(loc='upper left' )
-    plt.savefig("ABM-CFD_attachedcells_tresholds_"+ exp +"_run"+ run +".png", dpi=150)
+    plt.savefig("ABM-CFD_attachedcells_tresholds_"+ exp +"_avg.png", dpi=150)
